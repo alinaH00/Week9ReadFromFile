@@ -1,0 +1,14 @@
+C:\Users\alina\source\repos\Week9ReadData\Week9ReadData\obj\Debug\net6.0\Week9ReadData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alina\source\repos\Week9ReadData\Week9ReadData\obj\Debug\net6.0\Week9ReadData.AssemblyInfoInputs.cache
+C:\Users\alina\source\repos\Week9ReadData\Week9ReadData\obj\Debug\net6.0\Week9ReadData.AssemblyInfo.cs
+C:\Users\alina\source\repos\Week9ReadData\Week9ReadData\obj\Debug\net6.0\Week9ReadData.csproj.CoreCompileInputs.cache
+C:\Users\alina\source\repos\Week9ReadData\Week9ReadData\bin\Debug\net6.0\Week9ReadData.exe
+C:\Users\alina\source\repos\Week9ReadData\Week9ReadData\bin\Debug\net6.0\Week9ReadData.deps.json
+C:\Users\alina\source\repos\Week9ReadData\Week9ReadData\bin\Debug\net6.0\Week9ReadData.runtimeconfig.json
+C:\Users\alina\source\repos\Week9ReadData\Week9ReadData\bin\Debug\net6.0\Week9ReadData.dll
+C:\Users\alina\source\repos\Week9ReadData\Week9ReadData\bin\Debug\net6.0\Week9ReadData.pdb
+C:\Users\alina\source\repos\Week9ReadData\Week9ReadData\obj\Debug\net6.0\Week9ReadData.dll
+C:\Users\alina\source\repos\Week9ReadData\Week9ReadData\obj\Debug\net6.0\refint\Week9ReadData.dll
+C:\Users\alina\source\repos\Week9ReadData\Week9ReadData\obj\Debug\net6.0\Week9ReadData.pdb
+C:\Users\alina\source\repos\Week9ReadData\Week9ReadData\obj\Debug\net6.0\Week9ReadData.genruntimeconfig.cache
+C:\Users\alina\source\repos\Week9ReadData\Week9ReadData\obj\Debug\net6.0\ref\Week9ReadData.dll
